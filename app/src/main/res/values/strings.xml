@@ -1,3 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CMBP_SURMARQUI</string>
+    <string name="app_name">SurMarket</string>
+    <string name="FRGLogin_Title">Iniciar Sesión</string>
+    <string name="FRGLogin_TXVUserName">Nombre de usuario</string>
+    <string name="FRGLogin_ETXUserName">Ingresa tu nombre de usuario</string>
+    <string name="FRGLogin_TXVPassword">Contraseña</string>
+    <string name="FRGLogin_ETXPassword">Ingresa tu contraseña</string>
+    <string name="FRGLogin_TXVRecoverPassword">Recuperar contraseña</string>
+    <string name="FRGLogin_BTNLogin">Iniciar sesión</string>
+    <string name="FRGLogin_BTNRegister">Regístrate aquí</string>
+
 </resources>
